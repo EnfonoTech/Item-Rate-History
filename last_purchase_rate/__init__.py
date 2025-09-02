@@ -1,1 +1,1 @@
-# Last Purchase Rate App
+__version__ = "0.0.1"
